@@ -1,0 +1,22 @@
+{
+  "name": "04-express-static",
+  "version": "1.0.0",
+  "description": "Requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwatson615/04-express-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwatson615/04-express-static/issues"
+  },
+  "homepage": "https://github.com/mwatson615/04-express-static#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
